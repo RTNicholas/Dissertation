@@ -43,11 +43,4 @@ The Python files are as follows:
 	  used for transposition and matrix builder function
 
 Note:// Spreadsheet contains all results.
-=====================
-Similarity:
-----------------------
-Spreadsheet contains RMSE calculations and source data
-=====================
-Presentation:
-----------------------
-The finial version of the presentation has been attached as the powerpoint file
+
